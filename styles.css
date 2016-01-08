@@ -1,7 +1,7 @@
 .logo {
   width: 5em;
-  padding: 0;
-  margin: 0;
+  margin: 1px 1px 0 1px;
+  border-radius: 5px;
 }
 
 .info {
@@ -17,7 +17,8 @@
   background-position: center;
   background-size: cover;
   color: #D0D0D0;
-  text-shadow: 2px 1px black;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  font-family: 'Raleway', sans-serif;
 }
 
 .button {
@@ -31,12 +32,12 @@
   margin-top: 3em;
 }
 
-.row div {
-  text-align: center;
+.row {
+  font-family: 'Raleway', sans-serif;
 }
 
-.row h3 {
-  padding:
+.row div {
+  text-align: center;
 }
 
 .row a {
@@ -60,4 +61,60 @@
 .jumbotron img {
   height: 5cm;
   border-radius: 10em;
+}
+
+.footer {
+  padding: 2em 3em 1em 3em;
+  background-color: #778899;
+  font-family: 'Playfair Display', serif;
+  font-size: 10px;
+  font-color: grey;
+  border: solid black 1px;
+}
+
+.aboutheader {
+  padding: 6em 6em 3em 6em;
+  background-image: url(img/redbackground.jpg);
+  color: #d3d3d3;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  text-align: center;
+  font-family: 'Raleway', sans-serif;
+  margin-bottom: -20px;
+
+}
+.aboutheader p {
+  margin-top: 2em;
+}
+
+.workheader h3 {
+  text-align: center;
+  padding-top: 2em;
+}
+
+.workheader {
+  font-family: 'Raleway', sans-serif;
+  padding-left: 2em;
+  height: 100%;
+  background-size: cover;
+  color: #fff;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  background:#7f7f7f;
+  background:rgba(50,50,50,0.5);
+}
+
+.workheader img {
+  height: 5em;
+  display: block;
+  margin: 0 auto;
+  padding:2px;
+  box-shadow: black 0.1em 0.1em 0.2em;
+}
+
+.workheader h4 {
+  margin-top: 2em;
+  text-align: center;
+}
+
+.workheader h6 {
+  text-align: center;
 }

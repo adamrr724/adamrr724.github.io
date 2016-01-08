@@ -11,7 +11,7 @@
 
 .jumbotron {
   text-align: center;
-  padding: 23em 0 23em 0;
+  padding: 14em 0 14em 0;
   background-image: url(img/background.jpg);
   max-width: 100%;
   background-position: center;
@@ -54,4 +54,10 @@
 
 .project2 {
   margin: 0 -1em 2em -1em;
+}
+
+.jumbotron img {
+  height: 15em;
+  border-radius: 10em;
+  margin: 1em 48em 4em 38em;
 }

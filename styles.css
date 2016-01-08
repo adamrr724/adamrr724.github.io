@@ -92,6 +92,11 @@
 }
 .aboutheader p {
   margin-top: 1em;
+  font-size: 17px;
+}
+
+.workheader p {
+  font-size: 15px;
 }
 
 .workheader h3 {
@@ -108,7 +113,8 @@
   color: #fff;
   text-shadow: black 0.2em 0.1em 0.2em;
   background-image: url(img/greybackground.jpg);
-
+  margin-right: 2em;
+  text-decoration: none;
 }
 
 .workheader img {
@@ -121,6 +127,10 @@
 
 .workheader h4 {
   margin-top: 2em;
+  text-align: center;
+}
+
+.workheader p {
   text-align: center;
 }
 

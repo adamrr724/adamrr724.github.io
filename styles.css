@@ -1,0 +1,21 @@
+.logo {
+  width: 5em;
+}
+
+.info {
+  margin: 1em 0 0 0;
+  font-weight: bold;
+}
+
+.jumbotron {
+  text-align: center;
+  padding: 13em 0 13em 0;
+  background-image: url(http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg);
+  max-width: 100%;
+  background-position: center;
+  background-size: contain;
+  color: #fff;
+  text-shadow: 2px 1px black;
+  filter: brightness(5%);
+
+}

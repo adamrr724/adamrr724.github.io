@@ -94,6 +94,7 @@
 .workheader {
   font-family: 'Raleway', sans-serif;
   padding-left: 2em;
+  padding-bottom: 3em;
   height: 100%;
   background-size: cover;
   color: #fff;
@@ -117,4 +118,40 @@
 
 .workheader h6 {
   text-align: center;
+}
+
+.educationheader img {
+  height: 8em;
+  margin: 0 auto;
+  padding:2px;
+}
+
+.educationheader {
+  font-family: 'Raleway', sans-serif;
+  padding-left: 2em;
+  height: 100%;
+  background-size: cover;
+  color: #fff;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  text-align: center;
+  background-color: black;
+  margin-top: -20px;
+  padding-top: 3em;
+  padding-bottom: 4em;
+}
+
+ .hobby {
+  width: 600px;
+  height: auto;
+  margin: auto;
+}
+
+.hobbyheader {
+  text-align: center;
+  padding-top: 3em;
+  margin-bottom: 4em;
+}
+
+.hobbyheader h3 {
+  padding-bottom: 2em;
 }

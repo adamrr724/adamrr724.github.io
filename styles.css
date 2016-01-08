@@ -17,3 +17,8 @@
   color: #D0D0D0;
   text-shadow: 2px 1px black;
 }
+
+.button {
+  font-weight: bold;
+  border: solid 1px gray;
+}

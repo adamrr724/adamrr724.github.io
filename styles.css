@@ -10,12 +10,10 @@
 .jumbotron {
   text-align: center;
   padding: 13em 0 13em 0;
-  background-image: url(http://www.planwallpaper.com/static/images/recycled_texture_background_by_sandeep_m-d6aeau9_PZ9chud.jpg);
+  background-image: url(img/background.jpg);
   max-width: 100%;
   background-position: center;
   background-size: contain;
-  color: #fff;
+  color: #D0D0D0;
   text-shadow: 2px 1px black;
-  filter: brightness(5%);
-
 }
